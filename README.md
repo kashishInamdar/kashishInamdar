@@ -29,16 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
 ###
 
@@ -48,14 +39,7 @@
 
 ###
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Hi, I'm [Your Name]
-</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Full+Stack+Developer;Building+Digital+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
-</div>
 
 ### 💻 Tech Stack
 
@@ -69,33 +53,8 @@
 
 </div>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="GitHub Streak"/>
-</div>
-
-### 🚀 What I Do
-
-```javascript
-const developer = {
-  code: ["JavaScript", "Python", "HTML", "CSS"],
-  tools: ["React", "Node.js", "Docker", "MongoDB"],
-  architecture: ["microservices", "event-driven", "design patterns"],
-  challenge: "Currently learning AWS and exploring AI/ML"
-}
-```
 
 ### 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/your-username/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project1&theme=dark" />
-  </a>
-  <a href="https://github.com/your-username/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project2&theme=dark" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
